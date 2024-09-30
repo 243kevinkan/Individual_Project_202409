@@ -4,7 +4,7 @@ Tibame GA243_個專_輕鬆打造投資組合
 https://lin.ee/OitSQja
 2. Presentation
 個專_輕鬆建立個人投資組合_20240927.pdf
-3. 原始碼
+3. 主程式原始碼
 app.py
 4. 所需環境
 Python 3.11.9
