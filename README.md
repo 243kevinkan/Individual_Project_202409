@@ -8,12 +8,5 @@ https://lin.ee/OitSQja
 app.py
 4. 所需環境
 Python 3.11.9
-Python Packages: 
-yfinance 
-pandas
-numpy
-matplotlib
-numpy_financial
-Flask
-Linebot
+Python Packages :finance, pandas, numpy, matplotlib, numpy_financial, Flask, Linebot
 
